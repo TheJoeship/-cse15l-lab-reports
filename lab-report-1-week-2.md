@@ -6,6 +6,7 @@ Step 1: Installing VSCode
 ***
 * Head to [this website](https://code.visualstudio.com/download) and download the appropriate version of VSCode for your system
 * When you run the program after it has installed yours should look something like this:
+
 ![Image](VscodeScreenshot.png) 
 
 Step 2: Remotely Connecting
@@ -19,6 +20,7 @@ Step 2: Remotely Connecting
 * Next you'll be prompted for your password, Note: the password will not display when you type it in so be careful. It's advised to copy and paste your password in
 
 * If you did this right you should see something similar to the image below. If that's the case, you're in!
+
 ![Image](successlogin.png)
 
 Step 3: Testing Commands
