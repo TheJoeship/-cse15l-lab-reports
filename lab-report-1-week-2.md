@@ -1,1 +1,1 @@
-[Image](WebsiteScreenshot.png)
+![Image](WebsiteScreenshot.png)
