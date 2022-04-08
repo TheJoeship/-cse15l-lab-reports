@@ -6,7 +6,7 @@ This should be a smaller heading!
 
 Now here's normal stuff, except for *this which is in Italics!* and **this which is in bold!**
 
-Link to something: [Link](https://www.youtube.com/)
+Link to something: [Link](https://www.youtube.com/shorts/a8huLUKkZ08)
 
 And an image of a duck:
 
