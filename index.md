@@ -1,7 +1,7 @@
 This should be a heading!
 ========================
 
-#This should be a smaller heading!
+This should be a smaller heading!
 ---------------------------------
 
 Now here's normal stuff, except for *this which is in Italics!* and **this which is in bold!**
