@@ -1,5 +1,5 @@
-This should be a heading!
-========================
+Big Heading
+========
 
 This should be a smaller heading!
 ---------------------------------
