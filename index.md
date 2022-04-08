@@ -1,5 +1,3 @@
-This should be a heading!
-========================
 
 This should be a smaller heading!
 ---------------------------------
