@@ -1,3 +1,5 @@
+Big Heading
+========
 
 This should be a smaller heading!
 ---------------------------------
