@@ -3,7 +3,7 @@ Debugging
 
 Bug 1: Differentiating between links and images
 ------
-The MarkdownParse program is designed to parse links from Markdown files. In this case, the program parsed a [file](test-file3-labrep.md) that contained 2 links and an image. The resulting output was: 
+The MarkdownParse program is designed to parse links from Markdown files. In this case, the program parsed a [file](https://github.com/TheJoeship/-cse15l-lab-reports/blob/main/test-file3-labrep.md) that contained 2 links and an image. The resulting output was: 
 
 `[berlin_wall.jpg,https://something.com, some-thing.html]`
 
@@ -16,7 +16,7 @@ This behavior was corrected by adding a check to see if the link/image starts wi
 Bug 2: No links found behavior
 ------
 
-For this testcase the MarkdownParser parsed [this](test-file4-labrep.md) file, a file with no links whatsoever. The resulting output was: 
+For this testcase the MarkdownParser parsed [this](https://github.com/TheJoeship/-cse15l-lab-reports/blob/main/test-file4-labrep.md) file, a file with no links whatsoever. The resulting output was: 
 
 `[]` 
 
@@ -29,7 +29,7 @@ This was corrected by checking the size of the Arraylist and outputting an error
 Bug 3: Are these actually links?
 ------
 
-[This](test-file5-labrep.md) file contains no links but items that look deceptively like links. However, the way MarkdownParser was built causes it to recognize these as links. Giving us this output:
+[This](https://github.com/TheJoeship/-cse15l-lab-reports/blob/main/test-file5-labrep.md) file contains no links but items that look deceptively like links. However, the way MarkdownParser was built causes it to recognize these as links. Giving us this output:
 
 `[stuff,pages.com]`
 
